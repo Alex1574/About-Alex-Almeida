@@ -1,2 +1,7 @@
 # About Alex Almeida
- A repository that is all about me
+- **Name**: Alexander Almeida
+- **Graduating from BHS**: 2021
+
+
+# Summary 
+Hello everyone!
