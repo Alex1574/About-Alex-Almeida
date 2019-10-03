@@ -1,2 +1,2 @@
-# About-Alex-Almeida
+# About Alex Almeida
  A repository that is all about me
