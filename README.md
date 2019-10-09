@@ -10,5 +10,5 @@ This year I am trying to better myself in both fitness level, academic level and
 # Family
 I have two brothers one older and one younger. 
 
-- My older brother Robert is currently a sophomore in college at the Becker College in Lecister
-- My younger brother is in the 8th grade at the Ashfield Middle School
+- My older brother Robert is currently a sophomore in college at the Becker College in Lecister.
+- My younger brother is in the 8th grade at the Ashfield Middle School.
