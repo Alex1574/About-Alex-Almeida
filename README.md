@@ -8,7 +8,11 @@ Hello, my name is Alexander Almeida, but I go by Alex. I am a junior at the Broc
 
 This year I am trying to better myself in both fitness level, academic level and just trying to make myself more well rounded for the future. After school I drive around for Driver's ed. I enjoy playing the sport volleyball and I am going to be trying out for the JV team this year. I really enjoy Marvel movies and other projects done by Disney.
 # Family
-I have two brothers one older and one younger. 
+Me and my family have lived solely on the East side of Brockton. I have two brothers one older and one younger. 
 
 - My older brother Robert is currently a sophomore in college at the Becker College in Lecister.
 - My younger brother is in the 8th grade at the Ashfield Middle School.
+
+My father is a mason working for my grandfather in his business Andrews Masonry.
+
+My mother works at a daycare in Braintree called Hugs Plus Learning Center, where she is a teacher's assistant.
