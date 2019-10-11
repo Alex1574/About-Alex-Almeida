@@ -16,3 +16,11 @@ Me and my family have lived solely on the East side of Brockton. I have two brot
 My father is a mason working for my grandfather in his business Andrews Masonry.
 
 My mother works at a daycare in Braintree called Hugs Plus Learning Center, where she is a teacher's assistant.
+# Skills
+- Spelling Bee Champion in 5th grade
+- Understands some Spanish
+- Can do a cartwheel with one hand
+- Can cartwheel off of a balnace beam
+- Can do a handstand in and out of water
+# Culture
+My father is Portuguese and in turn I have leanred some portuguese from my grandmother. We celebrate holidays, such as Christmas a day earlier on Christmas Eve because where they are from it is Christmas then.
