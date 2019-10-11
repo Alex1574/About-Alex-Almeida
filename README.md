@@ -1,7 +1,7 @@
 # About Alex Almeida
 - **Name**: Alexander Almeida
 - **Graduating from BHS**: 2021
-
+![Image of a Sign](./Alex.jpg)
 
 # Summary 
 Hello, my name is Alexander Almeida, but I go by Alex. I am a junior at the Brockton High School.
