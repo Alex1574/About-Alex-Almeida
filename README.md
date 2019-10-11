@@ -24,3 +24,6 @@ My mother works at a daycare in Braintree called Hugs Plus Learning Center, wher
 - Can do a handstand in and out of water
 # Culture
 My father is Portuguese and in turn I have leanred some portuguese from my grandmother. We celebrate holidays, such as Christmas a day earlier on Christmas Eve because where they are from it is Christmas then.
+# Favorite Website
+[Coolmath](https://www.coolmathgames.com/)
+[Youtube](https://youtube.com)
